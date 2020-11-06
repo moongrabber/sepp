@@ -1,4 +1,4 @@
-# Style Dictionary Complete Example
+# Styler Dictionary Complete Example
 
 This starter project has everything you need to get started. 
 
